@@ -1,0 +1,16 @@
+hr{
+    border-style:dotted none none none;
+    border-width: 3px;
+    border-color: #FF8DC7; 
+    height: 5px;
+    width: 10%; 
+}
+table{
+    color: #B4E4FF;
+}
+h1{
+size: 12px;
+}
+h3{
+size: 40%;
+}
